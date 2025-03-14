@@ -1,0 +1,4 @@
+Gerçek Zamanlı Veri Akışı (Real-Time Data Flow): Kullanıcılar anlık olarak X’teki tweet'leri, beğenileri ve yanıtları takip edebilirler. Bu özellik, WebSockets veya benzeri teknolojiler kullanılarak yapılır.
+Yüksek Trafik Yönetimi ve Ölçeklenebilirlik: X, dünya çapında milyonlarca kullanıcıya hitap ettiği için çok yüksek trafik altında bile hızlı ve stabil çalışacak şekilde tasarlanmıştır. Bunun için veritabanı optimizasyonları ve yük dengeleme kullanılır.
+Makine Öğrenimi Destekli İçerik Öneri Sistemi: Kullanıcılara ilgilerini çekebilecek tweet'leri ve içerikleri öneren bir makine öğrenimi algoritması kullanılır.
+Gelişmiş Kullanıcı Etkileşim Sistemi: Kullanıcılar sadece tweet göndermekle kalmaz, beğeni, yanıt, retweet ve özel mesajlaşma gibi etkileşimler üzerinden sosyal bir deneyim oluştururlar.
